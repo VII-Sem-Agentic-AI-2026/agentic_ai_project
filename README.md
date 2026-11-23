@@ -15,7 +15,7 @@
 
 Students register using their USN, upload a resume, select a target role and paste a JD. The portal compares evidence with role requirements, imports consented public LeetCode/GitHub information, and generates preparation guidance. Students practise, track learning evidence, and complete a ten-question Gemini interview. Placement officers review reports, progress, assessment results, transcripts and recordings.
 
-The project applies Chapter 9 agentic concepts through a coordinator, parallel specialists, typed tools, scoped memory, durable checkpoints, bounded repair, acceptance validation and human review. Gemini generates selected content inside this controlled workflow; it does not control authentication, permissions, code execution or publication.
+The project applies agentic ai concepts through a coordinator, parallel specialists, typed tools, scoped memory, durable checkpoints, bounded repair, acceptance validation and human review. Gemini generates selected content inside this controlled workflow; it does not control authentication, permissions, code execution or publication.
 
 ## Problem Statement
 
@@ -231,4 +231,5 @@ Windows users can run `scripts/verify.ps1 -PythonPath <path-to-python>` for the 
 ## Conclusion
 
 ASCEND connects student evidence, personalised practice and officer-reviewed preparation in one auditable workflow. AI generates questions and advice; validated tools handle storage, calculations and execution, and the placement officer remains responsible for published preparation reports.
+
 

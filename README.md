@@ -4,6 +4,8 @@
 
 ## Team Members
 
+**Course assignments:** [Worklet 9 — all 14 executable lab notebooks](Assignments/README.md).
+
 | Name | USN |
 | --- | --- |
 | Vijay Kumar | 01FE23BCI083 |

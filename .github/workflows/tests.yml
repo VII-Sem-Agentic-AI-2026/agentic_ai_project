@@ -23,3 +23,4 @@ jobs:
       - run: node --check frontend/workspaces.js
       - run: node --test frontend/tests/media-upload.test.cjs
       - run: python scripts/check_release.py
+      - run: python Assignments/run_notebooks.py

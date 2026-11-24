@@ -1,0 +1,77 @@
+{
+  "executed_utc": "2026-11-24T04:37:24.311224+00:00",
+  "method": "Fresh Python process per notebook; synthetic inputs; no external API calls",
+  "results": [
+    {
+      "notebook": "LAB_01_Worklet9_Planner_Loop.ipynb",
+      "passed": true,
+      "duration_seconds": 4.012
+    },
+    {
+      "notebook": "LAB_02_Worklet9_Typed_Tools.ipynb",
+      "passed": true,
+      "duration_seconds": 1.104
+    },
+    {
+      "notebook": "LAB_03_Worklet9_Reusable_Skills.ipynb",
+      "passed": true,
+      "duration_seconds": 0.942
+    },
+    {
+      "notebook": "LAB_04_Worklet9_Memory_and_Retrieval.ipynb",
+      "passed": true,
+      "duration_seconds": 2.87
+    },
+    {
+      "notebook": "LAB_05_Worklet9_MCP_Connector.ipynb",
+      "passed": true,
+      "duration_seconds": 2.853
+    },
+    {
+      "notebook": "LAB_06_Worklet9_Governed_Runtime.ipynb",
+      "passed": true,
+      "duration_seconds": 3.3
+    },
+    {
+      "notebook": "LAB_07_Worklet9_Node_Graph.ipynb",
+      "passed": true,
+      "duration_seconds": 1.005
+    },
+    {
+      "notebook": "LAB_08_Worklet9_Parallel_Swarm.ipynb",
+      "passed": true,
+      "duration_seconds": 3.639
+    },
+    {
+      "notebook": "LAB_09_Worklet9_Evidence_Grounding.ipynb",
+      "passed": true,
+      "duration_seconds": 1.486
+    },
+    {
+      "notebook": "LAB_10_Worklet9_Ops_Resilience.ipynb",
+      "passed": true,
+      "duration_seconds": 2.837
+    },
+    {
+      "notebook": "LAB_11_Worklet9_SDLC_Factory.ipynb",
+      "passed": true,
+      "duration_seconds": 1.187
+    },
+    {
+      "notebook": "LAB_12_Worklet9_Safety_and_Governance.ipynb",
+      "passed": true,
+      "duration_seconds": 4.285
+    },
+    {
+      "notebook": "LAB_13_Worklet9_Domain_Specialists.ipynb",
+      "passed": true,
+      "duration_seconds": 5.259
+    },
+    {
+      "notebook": "LAB_14_Worklet9_Capstone.ipynb",
+      "passed": true,
+      "duration_seconds": 5.806
+    }
+  ],
+  "all_passed": true
+}

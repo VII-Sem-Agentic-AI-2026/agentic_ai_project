@@ -121,7 +121,7 @@ frontend/            Student/officer interface and recording upload helper
 scripts/             Startup, verification, diagnostics and source packaging
 .github/workflows/   Automated checks
 docs/                Requirements and complete demonstration guide
-PROGRESS.md          Implementation and verification history
+docs/CHANGELOG.md    Implementation and verification history
 runtime/             Generated locally; ignored by Git
 ```
 

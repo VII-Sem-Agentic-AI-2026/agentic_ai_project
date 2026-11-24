@@ -1,8 +1,11 @@
-# Project progress
+# Changelog
 
-Project folder: `C:\Users\DELL\Documents\Codex\2026-11-16\see\outputs\placement-portal`
+## v0.1.0
 
-Files are saved locally. No GitHub repository has been connected or pushed.
+Initial public release of ASCEND, a placement-readiness and career-intelligence portal.
+This release includes consent-aware profile and resume workflows, coding-profile imports,
+preparation tracking, practice assessments, Gemini interviews, Docker-based coding
+assessments, placement-officer review, audit records and release documentation.
 
 ## Completed
 
